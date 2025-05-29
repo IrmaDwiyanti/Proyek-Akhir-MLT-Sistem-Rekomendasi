@@ -193,7 +193,7 @@ RMSE mengukur rata-rata akar dari kuadrat selisih antara nilai prediksi (ŷ) dan
 Semakin kecil nilai RMSE, maka semakin baik model dalam memprediksi karena hasil prediksinya mendekati data aktual. Nilai RMSE yang rendah menandakan tingkat kesalahan prediksi yang kecil, yang berarti model bekerja secara lebih akurat.
 
 📈 Hasil Evaluasi
-Berdasarkan hasil pelatihan model, diperoleh nilai RMSE sebesar 0.185. Nilai ini mengindikasikan bahwa model memiliki performa yang cukup baik dalam mempelajari pola interaksi antara pengguna dan buku. Meskipun hasilnya sudah tergolong bagus, nilai RMSE ini masih dapat diminimalkan lebih lanjut melalui optimasi dan tuning parameter tambahan di masa mendatang.
+Berdasarkan hasil pelatihan model, diperoleh nilai RMSE sebesar 0.1860. Nilai ini mengindikasikan bahwa model memiliki performa yang cukup baik dalam mempelajari pola interaksi antara pengguna dan buku. Meskipun hasilnya sudah tergolong bagus, nilai RMSE ini masih dapat diminimalkan lebih lanjut melalui optimasi dan tuning parameter tambahan di masa mendatang.
 
 Visualisasi performa RMSE selama proses pelatihan juga ditampilkan pada grafik berikut untuk memberikan gambaran perkembangan model secara lebih mendalam.
 
